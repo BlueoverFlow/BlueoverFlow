@@ -5,7 +5,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw (digital art)
 <a href="https://github.com/BlueoverFlow/">
-  <img align src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueoverFlow&layout=compact&theme=radical" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueoverFlow&layout=compact&theme=radical" alt="Most used languages" />
 </a>
 <a href="https://github.com/BlueoverFlow/">
   <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=BlueoverFlow&show_icons=true&theme=radical&count_private=true&include_all_commits&show_icons=true=true&hide=stars" alt="Stats" />
