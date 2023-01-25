@@ -34,4 +34,4 @@
 </details>
 
 [linkedin]: www.linkedin.com/in/achrafelmezzioui
-[instagram]: https://www.instagram.com/achraf_elmezzioui/
+[instagram]: https://www.instagram.com/
