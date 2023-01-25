@@ -1,6 +1,6 @@
 ### Hi there, I'm Achraf! 👋
 
-## I'm a 19 years old student at 1337!!
+## I'm a 21yo!!
 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw (digital art)
