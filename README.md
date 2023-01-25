@@ -1,8 +1,6 @@
 ### Hi there, I'm Achraf! 👋
 
-## I'm a 21yo!!
-
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw (digital art)
 <a href="https://github.com/BlueoverFlow/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueoverFlow&layout=compact&theme=radical" alt="Most used languages" />
